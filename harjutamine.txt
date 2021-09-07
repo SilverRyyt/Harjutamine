@@ -1,0 +1,2 @@
+GitHub on interneti hostimise pakkuja tarkvara arendamiseks ja versioonide kontrollimiseks.
+Seda kasutavad enamasti programmeerijad.
