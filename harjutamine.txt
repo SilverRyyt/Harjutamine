@@ -1,3 +1,2 @@
 GitHub on interneti hostimise pakkuja tarkvara arendamiseks ja versioonide kontrollimiseks.
 Seda kasutavad enamasti programmeerijad.
-Mina saan edasipidi GitHubi kasutada koodi hoiustamiseks ja jagamiseks, kui ka kooi kirjutamiseks.
