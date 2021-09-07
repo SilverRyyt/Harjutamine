@@ -1,3 +1,5 @@
 GitHub on interneti hostimise pakkuja tarkvara arendamiseks ja versioonide kontrollimiseks.
 Seda kasutavad enamasti programmeerijad.
 Mina saan edasipidi GitHubi kasutada koodi hoiustamiseks ja jagamiseks, kui ka kooi kirjutamiseks.
+GitHubi platformi hakati looma 2007. aastal ning see valmis aastal 2018.
+GitHubi tegi Chris Wanstrath koos mõne teise programmeerijaga.
